@@ -32,7 +32,7 @@
     "es6-promisify": "^5.0.0",
     "filesize": "^3.3.0",
     "glob": "^7.0.3",
-    "gm": "^1.21.1",
+    "gm": "git+https://github.com/SvyatoslavPozhydaev/gm#patch-1",
     "gmsmith": "^1.1.0",
     "graceful-fs": "^4.1.15",
     "image-size": "^0.5.0",
